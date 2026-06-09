@@ -30,7 +30,7 @@ const ProjectCards = () => {
       technologies: ["React", "CSS", "Creativity"],
       image: "https://i.ibb.co/whxs0hqN/Chat-GPT-Image-Jun-7-2026-05-08-45-AM.png",
       github: "https://github.com/NitishaSamtani/Portfolio",
-      liveDemo: "null",
+      liveDemo: "https://nitishasamtani.vercel.app/",
     },
     {
       id: 3,
