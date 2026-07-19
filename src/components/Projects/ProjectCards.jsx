@@ -34,6 +34,15 @@ const ProjectCards = () => {
     },
     {
       id: 3,
+      title: "SQL Datawarehouse Project",
+      description: "Designed and developed an end-to-end SQL Data Warehouse using PostgreSQL and the Medallion Architecture (Bronze, Silver, and Gold) to transform raw data into analytics-ready datasets. Built automated ETL pipelines using SQL and PL/pgSQL to ingest, clean, validate, and standardize data efficiently. Optimized data models and automated reporting workflows to improve data quality, consistency, and business reporting.",
+      technologies: ["TSQL", "Data Analytics"],
+      image: "https://i.ibb.co/8nH49Dkm/SQLDWH.png",
+      github: "https://github.com/NitishaSamtani/DataForgeWarehouse",
+      liveDemo: "null"
+    },
+    {
+      id: 4,
       title: "Telemedicine",
       description: "a MERN-based telemedicine platform that enables patients to book appointments, consults verified doctors online video, checks symptoms with AI, supports multilingual and receive healthcare services, Verified doctors connects to patients while admin manages patients, doctors to approve or disapprove according to sumited legal documents.",
       technologies: ["MERN Stack", "Groq API"],
