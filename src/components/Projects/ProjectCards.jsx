@@ -34,7 +34,7 @@ const ProjectCards = () => {
     },
     {
       id: 3,
-      title: "SQL Datawarehouse Project",
+      title: "DataForge Warehouse",
       description: "Designed and developed an end-to-end SQL Data Warehouse using PostgreSQL and the Medallion Architecture (Bronze, Silver, and Gold) to transform raw data into analytics-ready datasets. Built automated ETL pipelines using SQL and PL/pgSQL to ingest, clean, validate, and standardize data efficiently. Optimized data models and automated reporting workflows to improve data quality, consistency, and business reporting.",
       technologies: ["TSQL", "Data Analytics"],
       image: "https://i.ibb.co/8nH49Dkm/SQLDWH.png",
